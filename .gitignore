@@ -1,6 +1,7 @@
 *.beam
-*.app
 *.plt
-/ebin/
-/.eunit/
 rebar
+*.boot
+*.script
+ebin/*.app
+.eunit
